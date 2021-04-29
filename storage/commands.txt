@@ -1,0 +1,24 @@
+**Command List**
+
+
+1. **-help** (The one you've just used!)
+2. **-ping** (Pong!)
+3. **J U E G A  A S T R A L I S**
+4. **N E E D  T O M B O Y**
+5. **-hit [someone]**
+6. **-pat [someone]**
+7. **-kiss [someone]**
+8. **-kill [someone]**
+9. **-hug [someone]**
+10. **-play** (Plays a video from YouTube)
+11. **-stop** (Stops the music playback and sends the bot back home)
+12. **-skip** (Skips the current song and plays the next one from the queue)
+13. **Franchouchou** (You know what this one does my G)
+14. **-stats [player]** (Shows some statistics of a CS:GO Pro)
+15. **-team [team]** (Shows some statistics of a CS:GO Team)
+16. **-rankp** (Shows the Top 5 CS:GO Pros)
+17. **-rankt** (Shows the Top 5 CS:GO Teams)
+18. **-juan** (STREAMEA)
+19. **-sera** (SERA WHY :BibleThump:)
+20. **xie xie** (Plays the song of the people)
+21. **-d [number]** (Removes the song at the specified position in the queue)
